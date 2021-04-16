@@ -10,7 +10,7 @@ import time
 import os
 
 #configurando o servidor para receber os arquivos
-ip_servidor="192.168.100.109"
+ip_servidor="XXXXXXXXX"
 porta_servidor=31954
 
 #configurando SOCKET UDP 
